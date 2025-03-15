@@ -1,5 +1,5 @@
 # 정보
-이름 : Quiz Crown <br>
+이름 : Princess Revenge <br>
 장르 : `2d` `rpg` <br>
 기간 : 2023. 11-12. (1개월)  <br>
 인원 : 3명 <br>
