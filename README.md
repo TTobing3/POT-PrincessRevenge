@@ -11,7 +11,7 @@
 
 ![gif 1](https://github.com/user-attachments/assets/690a1d11-8ede-4112-be37-4208c5e620b6)
 
-플레이 영상 : -
+플레이 영상 : https://youtu.be/0OwF8GaJUpo
 
 # 스크린샷
 
